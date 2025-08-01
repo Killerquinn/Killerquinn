@@ -1,16 +1,29 @@
-## Hi there 👋
+## 🛠️ Tech Stack
 
-<!--
-**Killerquinn/Killerquinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Backend
+- **Go** — experience in gRPC, REST, wsockets develop
+- **Microservices & Monolith** — i can build microservise arhitecture and support monolith and vice versa
+- **Clean Architecture, SOLID** — trying to use it where it need to
 
-Here are some ideas to get you started:
+### 🗃️ Databases & Caching
+- **PostgreSQL** — confident with raw SQL and performance optimization
+- **Redis** — caching, session and other sensetive info store
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📨 Messaging & Streaming
+- **Kafka** — consumers, producers, connect api, reactive services
+
+### 🧪 Testing
+- **testify**, **mockery** —  test libs
+
+### 🐳 DevOps & CI/CD
+- **Docker**, **Docker Compose** — containerize
+- **CI/CD** — pipeline experience
+
+### 📊 Monitoring & Observability
+- **Prometheus**, **Grafana** — metrics & alerts
+- **Jaeger** — request tracing
+- **Kibana** — logging, analyze
+
+### 🧰 Tools & OS
+- **Git** 
+- **Arch Linux (Hyprland)** — main workspace
