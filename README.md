@@ -1,29 +1,23 @@
-## 🛠️ Tech Stack && still grow without seeing the ceiling
+# 👋 Hey, I'm Artem
 
-### 💻 Backend
-- **Go** — experience in gRPC, REST, wsockets developing
-- **Microservices & Monolith** — i can build microservice arhitecture and support monolith and vice versa
-- **Clean Architecture, SOLID** — trying to use it where it need to
+Backend developer passionate about building scalable and maintainable systems using Go.
 
-### 🗃️ Databases & Caching
-- **PostgreSQL** — confident with raw SQL and performance optimization
-- **Redis** — caching, session and other sensetive info store
+## 🧠 Tech Stack
 
-### 📨 Messaging & Streaming
-- **Kafka** — consumers, producers, connect api, reactive services
+| Domain        | Stack                                                   |
+|---------------|----------------------------------------------------------|
+| Language      | Go (REST, gRPC, WebSocket)                               |
+| DB & Cache    | PostgreSQL, Redis                                        |
+| Messaging     | Kafka                                                    |
+| Testing       | testify, mockery                                         |
+| DevOps        | Docker, CI/CD                                            |
+| Observability | Prometheus, Grafana, Jaeger, Kibana                      |
+| Architecture  | Microservices, Monolith, Clean Architecture, SOLID       |
+| Tools & OS    | Git, Arch Linux (Hyprland)                               |
 
-### 🧪 Testing
-- **testify**, **mockery** —  test libs
+## 🚀 Current Goals
+- Writing production-ready gRPC microservices
+- Deepening knowledge of distributed systems
+- Practicing system design and observability
 
-### 🐳 DevOps & CI/CD
-- **Docker**, **Docker Compose** — containerize
-- **CI/CD** — pipeline experience
-
-### 📊 Monitoring & Observability
-- **Prometheus**, **Grafana** — metrics & alerts
-- **Jaeger** — request tracing
-- **Kibana** — logging, analyze
-
-### 🧰 Tools & OS
-- **Git** 
-- **Arch Linux (Hyprland)** — main workspace
+---
