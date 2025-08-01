@@ -1,4 +1,4 @@
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack && still grow without seeing the ceiling
 
 ### 💻 Backend
 - **Go** — experience in gRPC, REST, wsockets develop
