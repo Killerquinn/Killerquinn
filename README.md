@@ -2,7 +2,7 @@
 
 ### 💻 Backend
 - **Go** — experience in gRPC, REST, wsockets developing
-- **Microservices & Monolith** — i can build microservise arhitecture and support monolith and vice versa
+- **Microservices & Monolith** — i can build microservice arhitecture and support monolith and vice versa
 - **Clean Architecture, SOLID** — trying to use it where it need to
 
 ### 🗃️ Databases & Caching
